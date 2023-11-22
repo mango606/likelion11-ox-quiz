@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "멋쟁이사자처럼 11기 OX 퀴즈",
+  "name": "Create OX Quiz App",
   "icons": [
     {
       "src": "favicon.ico",
